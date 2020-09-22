@@ -6,6 +6,7 @@
 ! Homepage:
 !
 
+##A[href*="bet"]
 ##A[href*="lotto"]
 ##A[href*="ufa191"]
 ##A[href*="slotgame"]
@@ -106,8 +107,6 @@ www.bombmovie.com##DIV[id^="ads"]
 ##A[href*="sa800"]
 ##A[href*="cat888"]
 www.newmovie-hd.org##A[href*="https://bit.ly"]
-##A[href*="allwebview3"]
 ##A[href*="keepforu"]
 ##A[href*="huaylike"]
-##A[href*="bet"]
 ##A[href*="youlike"]
