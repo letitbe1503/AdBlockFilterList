@@ -6,19 +6,14 @@
 ! Homepage:
 !
 
-www.tvseriesclub.net##A[href*="https://bit.ly"]
-www.newmovie-hd.org##A[href*="https://bit.ly"]
+www.tvseriesclub.net,seriesok.com,www.037hdmovie.com,www.bombmovie.com,www.newmovie-hd.org,movie2here.com##A[href*="https://bit.ly"]
 www.doonung1234.com##A[href*="banner"]
 www.doomovie-hd.com##DIV[class="floating_ads_bt-mid_container"]
 www.bombmovie.com##IMG[src^="//www.bombmovie.com/wp-content/uploads/2020/09/B"]
 www.bombmovie.com##DIV[id^="ads"]
-www.bombmovie.com##A[href*="https://bit.ly"]
-www.037hdmovie.com##A[href*="https://bit.ly"]
 subseries.co##IMG[class="banner"]
-seriesok.com##A[href*="https://bit.ly"]
 movie2here.com#?#center:-abp-contains(บาคาร่า)
 movie2here.com##IMG[class="lazyloaded"][src="https://i.imgur.com/4iwGb3s.png"]
-movie2here.com##A[href*="https://bit.ly"]
 movie222hd.com##IMG[src="https://movie222hd.com/wp-content/uploads/4168.jpg"]
 24hd.me#?#aside.widget:-abp-contains(อยากได้เลขอะไร)
 24hd.me#?#aside.widget:-abp-contains(แทงหวย)
