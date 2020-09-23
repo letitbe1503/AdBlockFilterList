@@ -116,3 +116,11 @@ movie222hd.com##IMG[src="https://movie222hd.com/wp-content/uploads/4168.jpg"]
 ##A[href*="24hsport"]
 www.doonung1234.com##A[href*="banner"]
 ##A[href*="kiss7799"]
+www.bombmovie.com##IMG[src^="//www.bombmovie.com/wp-content/uploads/2020/09/B"]
+24hd.me##DIV[class*="bn-container"]
+##A[href*="sendo.club"]
+24hd.me#?#aside.widget:-abp-contains(แทงหวย)
+24hd.me#?#aside.widget:-abp-contains(ADS)
+24hd.me#?#aside.widget:-abp-contains(อยากได้เลขอะไร)
+##A[href*="onstun"]
+movie2here.com#?#center:-abp-contains(บาคาร่า)
