@@ -6,7 +6,7 @@
 ! Homepage:
 !
 
-www.tvseriesclub.net,movie222hd.com,2499hdonline.com,seriesok.com,www.037hdmovie.com,www.bombmovie.com,www.newmovie-hd.org,movie2here.com##A[href*="https://bit.ly"]
+www.tvseriesclub.net,www.series24hr.com,movie222hd.com,2499hdonline.com,seriesok.com,www.037hdmovie.com,www.bombmovie.com,www.newmovie-hd.org,movie2here.com##A[href*="https://bit.ly"]
 www.doonung1234.com##A[href*="banner"]
 www.doomovie-hd.com##DIV[class="floating_ads_bt-mid_container"]
 www.bombmovie.com##IMG[src^="//www.bombmovie.com/wp-content/uploads/2020/09/B"]
