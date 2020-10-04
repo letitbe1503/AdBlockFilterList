@@ -191,3 +191,13 @@ www.series24hr.com##DIV[id="innity_wrapper_277626_1601082075979"][class="innity-
 ##A[href*="yengo.com"]
 ##A[href*="nytive.com"]
 ##A[href*="monster918"]
+||blogspot.com/*macao*
+||macau8882.com^
+||sexyauto168.com^
+||*macau8882*
+||macau8882.com/^
+||sexyauto168.com/^
+||macau8882.com/register2.php
+||bit.ly/macau^
+##A[href*="macau8882"]
+##A[href*="sexyauto168"]
