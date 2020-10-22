@@ -205,3 +205,11 @@ www.series24hr.com##DIV[id="innity_wrapper_277626_1601082075979"][class="innity-
 ||ad.watchlakorn.in^
 ##ins[class^="adsby"]
 ##div[id="ads"]
+subseries.co##A[href="https://kodseries.co/"]
+##iqpdiv[data-player-hook="loginbar"]
+##iqpdiv[data-player-hook="videotips"]
+##A[href*="panama888"]
+||msg-intl.qy.net/*block=body*
+||serv.vip.iq.com^
+||safeframe.googlesyndication.com^
+@@kissasianin.com$document
