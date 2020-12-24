@@ -1,7 +1,7 @@
 [Adblock Plus 2.0]
 ! Version: 1.0
 ! Title: ซ่อนโฆษณาเวบพนันและเวบโฆษณาต่างๆ ตามเวบดูหนังออนไลน์ของไทย
-! Last modified: 24/12/2563 22:12
+! Last modified: 25/12/2563 00:12
 ! Expires: 1 days (update frequency)
 ! Homepage:
 !
@@ -75,6 +75,9 @@ movie222hd.com##IMG[src="https://movie222hd.com/wp-content/uploads/4168.jpg"]
 ##A[href*="sagame"]
 ##A[href*="sa800"]
 ##A[href*="sa168"]
+##A[href*="66.com"]
+##A[href*="casino"]
+##A[href*="168sa"]
 ##A[href*="richover24"]
 ##A[href*="rb88858.com"]
 ##A[href*="pussy888win"]
