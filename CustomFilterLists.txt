@@ -1,12 +1,12 @@
 [Adblock Plus 2.0]
 ! Version: 1.0
 ! Title: ซ่อนโฆษณาเวบพนันและเวบโฆษณาต่างๆ ตามเวบดูหนังออนไลน์ของไทย
-! Last modified: 24/12/2563
+! Last modified: 24/12/2563 22:12
 ! Expires: 1 days (update frequency)
 ! Homepage:
 !
 
-series-nanime.com,www.tvseriesclub.net,uhuseries.com,series24hr.com,movie222hd.com,2499hdonline.com,seriesok.com,www.037hdmovie.com,www.bombmovie.com,www.newmovie-hd.org,movie2here.com##A[href*="https://bit.ly"]
+series-dd.co,series-nanime.com,www.tvseriesclub.net,uhuseries.com,series24hr.com,movie222hd.com,2499hdonline.com,seriesok.com,www.037hdmovie.com,www.bombmovie.com,www.newmovie-hd.org,movie2here.com##A[href*="https://bit.ly"]
 www.doonung1234.com##A[href*="banner"]
 www.212hd.com##A[href^="https://bit.ly/"]
 www.212hd.com##A[href^="https://line.me/"]
