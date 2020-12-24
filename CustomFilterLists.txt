@@ -1,7 +1,7 @@
 [Adblock Plus 2.0]
 ! Version: 1.0
 ! Title: ซ่อนโฆษณาเวบพนันและเวบโฆษณาต่างๆ ตามเวบดูหนังออนไลน์ของไทย
-! Last modified: 25/12/2563 00:12
+! Last modified: 25/12/2563 01:05
 ! Expires: 1 days (update frequency)
 ! Homepage:
 !
