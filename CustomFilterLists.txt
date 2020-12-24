@@ -6,7 +6,7 @@
 ! Homepage:
 !
 
-www.tvseriesclub.net,uhuseries.com,series24hr.com,movie222hd.com,2499hdonline.com,seriesok.com,www.037hdmovie.com,www.bombmovie.com,www.newmovie-hd.org,movie2here.com##A[href*="https://bit.ly"]
+series-nanime.com,www.tvseriesclub.net,uhuseries.com,series24hr.com,movie222hd.com,2499hdonline.com,seriesok.com,www.037hdmovie.com,www.bombmovie.com,www.newmovie-hd.org,movie2here.com##A[href*="https://bit.ly"]
 www.doonung1234.com##A[href*="banner"]
 www.212hd.com##A[href^="https://bit.ly/"]
 www.212hd.com##A[href^="https://line.me/"]
