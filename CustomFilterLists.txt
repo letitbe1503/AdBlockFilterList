@@ -166,6 +166,7 @@ series24hr.com#?#div.adtt:-abp-contains(ปิดโฆษณา)
 ##DIV[class="adtt"]
 ##A[href*="refpa.top"]
 movie2film.com##IMG[src="https://movie2film.com/wp-content/uploads/2020/09/x.png"]
+dooseries2u.com##IMG[src^="https://dooseries2u.com/wp-content/uploads/2020/10/bann"]
 ||taboola.com^
 ||googleads.g^
 ||king99.org^
