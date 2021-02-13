@@ -1,7 +1,7 @@
 [Adblock Plus 2.0]
 ! Version: 1.0
 ! Title: ซ่อนโฆษณาเวบพนันและเวบโฆษณาต่างๆ ตามเวบดูหนังออนไลน์ของไทย
-! Last modified: 13/02/2021 14:20:18
+! Last modified: 13/02/2021 14:26:48
 ! Expires: 1 days (update frequency)
 ! Homepage:
 !
@@ -165,6 +165,15 @@ series24hr.com##A[href*="bit.ly"]
 series24hr.com#?#div.adtt:-abp-contains(ปิดโฆษณา)
 ##DIV[class="adtt"]
 ##A[href*="refpa.top"]
+movie2uhd.com##DIV[class^="ad"]
+praew.com##IFRAME[src="https://www.amvata.com/widget/footer/praew.html"]
+praew.com##IFRAME[src^="https://www.dailymotion.com/embed/"]
+thmoviehdd.com##A[class="banner"]
+nungdeedee.com##A[href*="https://nungdeedee.com/externallink/"]
+moviedoofree.com##A[href*="https://moviedoofree.com/redirectlink/"]
+www.newmovie-hd.org##A[href="https://line.me/R/ti/p/%40139fldvn"]
+www.newmovie-hd.org##DIV[class="adstop-center"]
+www.newmovie-hd.org##DIV[class="adstop-right"]
 movie2film.com##IMG[src="https://movie2film.com/wp-content/uploads/2020/09/x.png"]
 dooseries2u.com##IMG[src^="https://dooseries2u.com/wp-content/uploads/2020/10/bann"]
 dooseries2u.com##IMG[src^="https://dooseries2u.com/wp-content/uploads/2021/01/ad-"]
