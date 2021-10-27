@@ -172,7 +172,6 @@
 @@||sbito.co.th/*^$document
 @@||twitter.com/*^$document
 @@||www.google.com/$document
-@@||www.intranet.ktb/$document
 @@||www.oracle.com/$document
 bombmovie.com##IFRAME[src*="lotto"]
 bombmovie.com#?#script:-abp-contains(lotto)
