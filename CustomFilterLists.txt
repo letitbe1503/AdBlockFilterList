@@ -289,3 +289,9 @@ www.we-play.live##A[href^="https://bit.ly/"]
 ||waaw.to/ad/^
 ||www.tns-counter.ru/^
 ||youtube.com/youtubei/v1/log_event^
+play-serieshd.tv,doomovie-hd.com,moviehd-thai.com,dooseries2u.com,play-serieshd.com,overserieshd.com,gomovieon.com,037hdmovie.com,overserieshd.com,037hdmovie.com,play-serieshd.com,enjoy-series.com,series-dd.co,series-nanime.com,www.tvseriesclub.net,uhuseries.com,series24hr.com,movie222hd.com,2499hdonline.com,seriesok.com,www.037hdmovie.com,www.bombmovie.com,www.newmovie-hd.org,movie2here.com##A[href*="https://bit.ly"]
+##A[href*="88.co"]
+##A[href*="168.co"]
+##A[href*="999.net"]
+##A[href*="350.game"]
+##A[href*="mytopaff.com"]
