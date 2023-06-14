@@ -6,7 +6,9 @@
 ! Homepage:
 !
 
-037hdmovie.com,1112hd.com,2499hdonline.com,dooball2you.com,doomovie-hd.com,dooseries2u.com,enjoy-series.com,gomovieon.com,livescorethai.net,movie222hd.com,movie2here.com,moviehd-thai.com,overserieshd.com,play-serieshd.com,play-serieshd.tv,series-dd.co,series-nanime.com,series24hr.com,seriesok.com,uhuseries.com,www.037hdmovie.com,www.bombmovie.com,www.newmovie-hd.org,www.tvseriesclub.net##A[href*="https://bit.ly"]
+037hdmovie.com,1112hd.com,2499hdonline.com,dooball2you.com,doomovie-hd.com,dooseries2u.com,enjoy-series.com,fw4free.com,gomovieon.com,livescorethai.net,movie222hd.com,movie2film.com,movie2here.com,moviehd-thai.com,nung2hdd.com,overserieshd.com,play-serieshd.com,play-serieshd.tv,series-dd.co,series-nanime.com,series-nanimehd.co,series24hr.com,seriesok.com,uhuseries.com,www.037hdmovie.com,www.bombmovie.com,www.newmovie-hd.org,www.tvseriesclub.net,xn--72czp5e5a8b.tv##[href*="https://bit.ly"]
+doofootball.com,dooball2you.com##[href*="https://cutt.ly"]
+nung2hdd.com,xn--72czp5e5a8b.tv##[href*="https://shorturl.at"]
 ##A[href*=".bet"]
 ##A[href*="/slot"]
 ##A[href*="168.co"]
@@ -131,6 +133,24 @@
 ##A[href^="http://line.me/"]
 ##A[href^="https://www.avenger98th.com/"]
 ##A[href^="https://www.k9th.com/"]
+##A[href*="w88c.co"]
+##[href*="168pretty.com"]
+##A[href*="meyou147"]
+##A[href*="lkk135.com"]
+##A[href*="ufax10.info"]
+##A[href*="ufa656"]
+##A[href*="235dzith"]
+##A[href*="ufa147"]
+##A[href*="ultimateufa.com"]
+##A[href*="889inseg"]
+##A[href*="40678qktne"]
+##A[href*="@mkvip"]
+##A[href*="aff.ufas.co"]
+##A[href*="thais7.com"]
+##A[href*="lucky135"]
+##A[href*="https://cli.re/Nung2hdd"]
+##A[href*="xn--72czp5e5a8b.tv"]
+##A[href*="xn--72czp5e5a8b.tv"]
 ##DIV[class="adtt"]
 ##DIV[class="bireklam"]
 ##DIV[class="filmborder5"]
@@ -190,7 +210,6 @@ bombmovie.com##IFRAME[src*="lotto"]
 bombmovie.com#?#script:-abp-contains(lotto)
 dooseries2u.com##IMG[src^="https://dooseries2u.com/wp-content/uploads/2020/10/bann"]
 dooseries2u.com##IMG[src^="https://dooseries2u.com/wp-content/uploads/2021/01/ad-"]
-dooseries2u.com,play-serieshd.com,overserieshd.com,gomovieon.com,037hdmovie.com,overserieshd.com,037hdmovie.com,play-serieshd.com,enjoy-series.com,series-dd.co,series-nanime.com,www.tvseriesclub.net,uhuseries.com,series24hr.com,movie222hd.com,2499hdonline.com,seriesok.com,www.037hdmovie.com,www.bombmovie.com,www.newmovie-hd.org,movie2here.com##A[href*="https://bit.ly"]
 dramacoolweb.com##DIV[class="container-7ccb340b992c63fcd8fc1a49793cc52c__bn"]
 dramacoolweb.com##IFRAME[src="about:blank"]
 movie222hd.com##IMG[src="https://movie222hd.com/wp-content/uploads/4168.jpg"]
@@ -302,3 +321,30 @@ www.we-play.live##A[href^="https://bit.ly/"]
 ||waaw.to/ad/^
 ||www.tns-counter.ru/^
 ||youtube.com/youtubei/v1/log_event^
+
+! 2023-06-08 https://928hd.com
+928hd.com##.-topLeft.ds-popup-wrapper > .-icon.-topRight.ds-popup-close
+928hd.com##.-topRight.ds-popup-wrapper > .-icon.-topRight.ds-popup-close
+928hd.com##.-bottomLeft.ds-popup-wrapper > .-icon.-topRight.ds-popup-close
+||928hd.com/wp-content/uploads/928mkvip2.gif$image
+||928hd.com/wp-content/uploads/av369.jpg$image
+||928hd.com/wp-content/uploads/hg6147895.gif$image
+928hd.com##.-bottomCenter.ds-popup-wrapper > .ds-popup-content
+928hd.com##.-bottomCenter.ds-popup-wrapper > .-icon.-topRight.ds-popup-close
+--928hd.com##.bnn-btn-close
+--928hd.com##[id="p-bnn-close"]
+
+! 2023-06-08 https://www.nung2hdd.com
+||www.nung2hdd.com/wp-content/uploads/2022/05/dooseries4k.gif$image
+||www.nung2hdd.com/wp-content/uploads/2022/05/9nunghd.gif$image
+
+! 2023-06-13 https://dooball66s.com
+dooball66s.com##.no-padding.panel-body.entry-content > p:nth-of-type(1)
+dooball66s.com##.addtoany_content_top.addtoany_content.addtoany_share_save_container
+dooball66s.com##.col-7
+dooball66s.com##p:nth-of-type(2)
+dooball66s.com##.no-padding.panel-body.entry-content > ul
+||dooball66s.com/wp-content/uploads/2020/07/cropped-logo*.png$image
+##[src*="http://rentm3u8.com/images/bug-db66_qr.png"]
+dooball66s.com##.panel-heading
+dooball66s.com##.no-padding.panel-body.entry-content > h1
